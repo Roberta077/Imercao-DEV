@@ -1,4 +1,4 @@
-## **## Buscando Atletas Paralímpicos com DEV Gemini**
+## **## Buscando Atletas Paralímpicos com DEV Gemini!**
 
 ### **Sobre o Projeto**
 
