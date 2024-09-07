@@ -1,4 +1,4 @@
-## **## Readme.md: Buscador de Atletas Paralímpicos**
+## **## Buscando Atletas Paralímpicos com DEV Gemini**
 
 ### **Sobre o Projeto**
 
